@@ -1,0 +1,16 @@
+{
+  "name": "vt_pbf2json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vt_pbf2json.js",
+  "dependencies": {
+    "concat-stream": "^1.5.2",
+    "pbf": "^3.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
